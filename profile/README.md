@@ -30,7 +30,7 @@ The Software for VSDSquadron Mini can be found at [https://github.com/VSDSquadro
 
 ## VSDSquadron S3
 
-![alt text](VSDSquadron_Ultra/squadron_S3_TOP.jpg)
+![alt text](VSDSquadron_S3/squadron_S3_TOP.jpg)
 
 
 
